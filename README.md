@@ -14,7 +14,7 @@ Packages need are:
 * [Matplotlib 3.6](https://matplotlib.org/)
 * [Pandas 1.5.3](https://pandas.pydata.org/)
 * [Numpy 1.23.3](https://www.numpy.org/)
-* [Scikit-learn](https://scikit-learn.org/stable/)
+* [Scikit-learn 1.1.2](https://scikit-learn.org/stable/)
 
 # Data
 The datasets used for experiments are accessible from [__Car-Hacking Dataset__](https://ocslab.hksecurity.net/Datasets/car-hacking-dataset).
