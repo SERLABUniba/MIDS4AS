@@ -2,7 +2,7 @@
 
 The repository contains code refered to the work:
 
-_Vita Santa Barletta, Danilo Caivano, Mirko De Vincentiis, Domenico Mazzola, Azzurra Ragone_
+_Vita Santa Barletta, Danilo Caivano, Mirko De Vincentiis, Domenico Mazzola, Antonio Piccinno, and Azzurra Ragone_
 
 MIDS4AS: A Multiclass IDS for Automotive Security
 
